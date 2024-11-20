@@ -1,4 +1,5 @@
-[
+{
+  "questionSets": [
   {
     "name": "General Knowledge",
     "url": "https://raw.githubusercontent.com/koestergbg/question-sets/refs/heads/main/questions.csv"
@@ -16,3 +17,4 @@
     "url": "https://raw.githubusercontent.com/koestergbg/question-sets/refs/heads/main/geography_questions.csv"
   }
 ]
+}
