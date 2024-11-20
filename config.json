@@ -1,0 +1,14 @@
+[
+  {
+    "name": "General Knowledge",
+    "url": "https://raw.githubusercontent.com/your-username/your-repository/main/geography_questions.csv"
+  },
+  {
+    "name": "Math",
+    "url": "https://raw.githubusercontent.com/your-username/your-repository/main/math_questions.csv"
+  },
+  {
+    "name": "Science",
+    "url": "https://raw.githubusercontent.com/your-username/your-repository/main/science_questions.csv"
+  }
+]
