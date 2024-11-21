@@ -1,6 +1,10 @@
 {
   "questionSets": [
     {
+      "name": "Kemi",
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/refs/heads/main/kemi.csv"
+    },
+    {
       "name": "General Knowledge",
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/refs/heads/main/questions.csv"
     },
