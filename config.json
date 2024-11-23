@@ -2,23 +2,23 @@
   "questionSets": [
     {
       "name": "Kemi",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/refs/heads/main/kemi.csv"
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/kemi.csv"
     },
     {
       "name": "General Knowledge",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/refs/heads/main/questions.csv"
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/questions.csv"
     },
     {
       "name": "Math",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/refs/heads/main/math_questions.csv"
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/math_questions.csv"
     },
     {
       "name": "Science",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/refs/heads/main/science_questions.csv"
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/science_questions.csv"
     },
     {
       "name": "Geography",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/refs/heads/main/geography_questions.csv"
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/geography_questions.csv"
     }
   ]
 }
