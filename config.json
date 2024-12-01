@@ -4,6 +4,10 @@
       "name": "Första Världskriget",
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/ww1.csv"
     },
+     {
+      "name": "Antiken åk 7",
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/antiken.csv"
+    },
     {
       "name": "Testtest",
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/geography_questions.csv"
