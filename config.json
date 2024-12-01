@@ -1,23 +1,11 @@
 {
   "questionSets": [
     {
-      "name": "Kemi",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/kemi.csv"
+      "name": "Första Världskriget",
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/ww1.csv"
     },
     {
-      "name": "General Knowledge",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/questions.csv"
-    },
-    {
-      "name": "Math",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/math_questions.csv"
-    },
-    {
-      "name": "Science",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/science_questions.csv"
-    },
-    {
-      "name": "Geography",
+      "name": "Testtest",
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/geography_questions.csv"
     }
   ]
