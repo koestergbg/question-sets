@@ -5,6 +5,10 @@
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/Litteraturhistoria_ak9.csv"
     },
     {
+      "name": "Anatomi åk6",
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/anatomi.csv"
+    },
+    {
       "name": "Första Världskriget",
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/ww1.csv"
     },
