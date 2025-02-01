@@ -9,23 +9,7 @@
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/wwII.csv"
     },
     {
-      "name": "Anatomi åk7",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/anatomi.csv"
-    },
-    {
-      "name": "Första Världskriget",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/ww1.csv"
-    },
-    {
-      "name": "Kemi - Kol och kolföreningar",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/chemistry_quiz.csv"
-    },
-     {
-      "name": "Antiken åk 7",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/antiken.csv"
-    },
-    {
-      "name": "Elektricitet",
+      "name": "Testtest",
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/elektricitet.csv"
     }
   ]
