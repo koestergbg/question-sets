@@ -9,6 +9,10 @@
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/wwII.csv"
     },
     {
+      "name": "Idrott och Hälsa",
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/idrotthalsa.csv"
+    },
+    {
       "name": "Testtest",
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/geography_questions.csv"
     }
