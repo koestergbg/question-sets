@@ -1,8 +1,8 @@
 {
   "questionSets": [
     {
-      "name": "Litteraturhistoria åk9",
-      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/Litteraturhistoria_ak9.csv"
+      "name": "Ljud",
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/ljud.csv"
     },
     {
       "name": "Mellankrigstiden och WWII åk9",
