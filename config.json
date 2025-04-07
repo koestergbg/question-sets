@@ -1,6 +1,10 @@
 {
   "questionSets": [
     {
+      "name": "Kemi",
+      "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/Kemiinstuderingsfragor.csv"
+    },
+    {
       "name": "Ljud",
       "url": "https://raw.githubusercontent.com/koestergbg/question-sets/main/ljud.csv"
     },
